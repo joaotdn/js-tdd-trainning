@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-trainning",
+  "version": "1.0.0",
+  "description": "Curso de JS com TDD Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaotdn/js-tdd-trainning.git"
+  },
+  "keywords": [
+    "tdd",
+    "js"
+  ],
+  "author": "João Teodoro <joaotdn@gmail.com> (https://github.com/joaotdn/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaotdn/js-tdd-trainning/issues"
+  },
+  "homepage": "https://github.com/joaotdn/js-tdd-trainning#readme"
+}
